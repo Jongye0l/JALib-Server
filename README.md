@@ -3,6 +3,12 @@
 ![Java](https://img.shields.io/badge/Lang-Java-c9c8e4.svg?&logo=openjdk)
 ![Intellij Idea](https://img.shields.io/badge/IDE-Intellij_Idea-c9c8e4.svg?&logo=intellijidea)
 
+> [!WARNING]
+> 백엔드 서버가 Spring Boot에서 **ASP.NET Core**로 마이그레이션되었습니다.  
+> The backend server has been migrated from Spring Boot to **ASP.NET Core**.  
+> 새로운 저장소를 참고해 주세요: [JALib.Server](https://github.com/Jongye0l/JALib.Server)  
+> Please refer to the new repository: [JALib.Server](https://github.com/Jongye0l/JALib.Server)
+
 ---
 ### 소개
 * Spring Boot 기반의 **[JALib](https://github.com/Jongye0l/JALib)** 전용 백엔드 API 서버입니다.
